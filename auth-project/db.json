@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "fullName": "John Doe",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "createdAt": "2026-02-17T10:00:00Z"
+    }
+  ]
+}
